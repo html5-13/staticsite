@@ -2,72 +2,72 @@
  * 开发时间：2013年1月22日11:59:01
  * 描述：在线报名表单
  */
-.sign-main{
+#sign .sign-main{
 	width:980px;
 	margin:0 auto;
 	overflow:hidden;
  }
-.sign-content{
+#sign .sign-content{
 	width:702px;
 	margin-bottom:25px;
 	float:left;
 }
-.sign-form{
+#sign .sign-form{
 	width:702px;
 	margin-top:6px;
 }
-.cxy-table{
+#sign .cxy-table{
 	font-size:14px;
 	color:#737373;
 	width:665px;
 	height:582px;
 	margin:0 auto;
 }
-.sign-bg{
+#sign .sign-bg{
 	width:100%;
 }
-.sign-form td{
+#sign .sign-form td{
 	height:45px;
 }
-.sign-form select{
+#sign .sign-form select{
 	color:#cfcfcf;
 }
-.sign-td1{
+#sign .sign-td1{
 	width:217px;
 }
-.sign-td2{
+#sign .sign-td2{
 	width:214px;
 }
-.sign-td3{
+#sign .sign-td3{
 	width:234px;
 }
-.sign-form span{
+#sign .sign-form span{
 	color:#feb68c;
 }
-.sign-text,.sign-sel{
+#sign .sign-text,.sign-sel{
 	height:22px;
 	border:1px solid #cbcbcb;
 }
-.sign-sel{
+#sign .sign-sel{
 	width:146px;
 	margin-left:-1px;
 	display:inline;
 }
-.sign-text{
+#sign .sign-text{
 	width:146px;
 	margin-right:4px;
 	display:inline;
 }
-.sign-sel1{
+#sign .sign-sel1{
 	width:67px;
 	height:22px;
 }
-.sign-text1{
+#sign .sign-text1{
 	width:70px;
 	height:22px;
 	border:1px solid #cbcbcb;
 }
-.sign-cb{
+#sign .sign-cb{
 	width:16px;
 	height:23px;
 	margin-right:10px;
@@ -75,32 +75,32 @@
 	display:inline;
 	background:url(../images/sign-oc.gif) no-repeat;
 }
-.sign-ta{
+#sign .sign-ta{
 	width:645px;
 	height:80px; 
 	border:1px solid #cbcbcb;
 }
-.sign-choice1,.sign-choice2{
+#sign .sign-choice1,.sign-choice2{
 	width:84px;
 	height:25px;
 	text-align:center;
 	color:#feb68c;
 	background:url(../images/online-btn.gif) no-repeat;
 }
-.sign-form a:hover{
+#sign .sign-form a:hover{
 	text-decoration:none;
 }
-.sign-choice1{
+#sign .sign-choice1{
 	margin-left:205px;
 }
-.sign-choice2{
+#sign .sign-choice2{
 	margin-left:85px;
 }
-.sign-form a:hover .sign-choice1{
+#sign .sign-form a:hover .sign-choice1{
 	background:url(../images/online-btn1.gif) no-repeat;
 	color:white;
 }
-.sign-form a:hover .sign-choice2{
+#sign .sign-form a:hover .sign-choice2{
 	background:url(../images/online-btn1.gif) no-repeat;
 	color:white;
 }
@@ -113,7 +113,7 @@
 #sign .circle-tm{
 	background-color:#ffffff;
 }
-.sign-div1{
+#sign .sign-div1{
 	height:178px;
 	width:260px;
 	margin-bottom:15px;

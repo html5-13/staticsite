@@ -1,25 +1,25 @@
 /* 各页面样式 */
-.contant-all{
+#contant .contant-all{
 	width:100%;
 	overflow:hidden;
 }
-.contant-main{
+#contant .contant-main{
 	width:985px;
 	margin:0 auto;
 }
-.content-con{
+#contant .content-con{
 	width:985px;
 	margin-top:5px;
 	float:left;
 	overflow:hidden;
 }
-.contant-bg{
+#contant .contant-bg{
 	width:985px;
 }
 #contant .page-bot-bg{
 	margin-top:28px;
 }
-.contant-bg-word{
+#contant .contant-bg-word{
 	float:left;
 	width:263px;
 	height:382px;
@@ -28,39 +28,39 @@
 	display:inline;
 	overflow:hidden;
 }
-.contant-bg-word strong,.contant-bg-word span{
+#contant .contant-bg-word strong,.contant-bg-word span{
 	float:left;
 	width:250px;
 	height:28px;
 	line-height:28px;
 	font-size:14px;
 }
-.contant-bg-word strong{
+#contant .contant-bg-word strong{
 	color:#7c7c7b;
 }
-.contant-bg-word span{
+#contant .contant-bg-word span{
 	color:#fbbb96;
 }
-.contant-bg .contant-bg-word1{
+#contant .contant-bg .contant-bg-word1{
 	width:250px;
 	line-height:28px;
 	height:56px;
 }
-.contant-map{
+#contant .contant-map{
 	float:left;
 	width:690px;
 	height:382px;
 	text-align:center;
 	margin-top:20px;
 }
-.contant-line{
+#contant .contant-line{
 	float:left;
 	width:955px;
 	margin-left:30px;
 	display:inline;
 	margin-top:36px;
 }
-.contant-line h2{
+#contant .contant-line h2{
 	float:left;
 	color:#fd9457;
 	font-weight:bold;
@@ -68,22 +68,22 @@
 	width:915px;
 	overflow:hidden;
 }
-.contant-line strong,.contant-line h3,.contant-line span{
+#contant .contant-line strong,.contant-line h3,.contant-line span{
 	float:left;
 	width:915px;
 	height:31px;
 	line-height:31px;
 	overflow:hidden;
 }
-.contant-line span{
+#contant .contant-line span{
 	color:#fd9457;
 	font-size:14px;
 }
-.contant-line strong{
+#contant .contant-line strong{
 	color:#a5a6a6;
 	font-size:14px;
 }
-.contant-line h3{
+#contant .contant-line h3{
 	color:#535351;
 	font-size:14px;
 	font-weight:bold;
