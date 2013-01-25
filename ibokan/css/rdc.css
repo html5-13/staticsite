@@ -1,6 +1,5 @@
 #rdc .content{
 	width:994px;
-	height:618px;
 	margin:0 auto;
 	overflow:hidden;
 }
@@ -30,8 +29,9 @@
 }
 #rdc .content .news{
 	width:343px;
-	height:292px;
+	height:295px;
 	float:left;
+	overflow:hidden;
 }
 #rdc .content .business{
 	width:260px;
@@ -71,6 +71,7 @@
 	border-bottom:1px dotted #a8a6a6;
 	width:310px;
 	margin:0 auto;
+	overflow:hidden;
 }
 #rdc .content .news .bd-last{
 	border:0 none;

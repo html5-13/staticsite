@@ -13,29 +13,25 @@
 }
 #thrg .course{
 	width:702px;
-	height:430px;
 	float:left;
 	margin-top:0px;
+	overflow:hidden;
 }
 #thrg .student{
 	width:260px;
-	height:200px;
 	float:right;
 	margin-top:0px;
 }
 #thrg .teacher{
 	width:260px;
-	height:212px;
 	float:right;
 }
 #thrg .project{
 	width:702px;
-	height:292px;
 	float:left;
 }
 #thrg .answer{
 	width:260px;
-	height:292px;
 	float:right;
 }
 #thrg .course .circle-con{
@@ -77,6 +73,7 @@
 #thrg .course .circle-con .course-con{
 	height:186px;
 	width:100%;
+	overflow:hidden;
 }
 #thrg .course .circle-con .course-con p{
 	padding:20px 15px;
@@ -98,12 +95,14 @@
 	padding-left:15px;
 }
 #thrg .course .circle-con .course-rel-con{
-	height:96px;
 	width:100%;
+	padding-bottom:12px;
 }
 #thrg .course .circle-con .course-rel-con ul{
 	padding-top:5px;
 	padding-left:15px;
+	overflow:hidden;
+	width:100%;
 }
 #thrg .course .circle-con .course-rel-con li{
 	font-size:14px;
