@@ -472,3 +472,12 @@ h1{color:blue;}
 #index .index-con .circle-con{
 	background-color:white;
 }
+#index .index-con .circle .titleBar-more{
+	background:url(../images/titleBar-more.gif) no-repeat;
+}
+#index .index-con .circle .titleBar-icon{
+	display:block;
+}
+#index .index-con .circle .titleBar-r h2{
+	font-size: 15px;
+}
