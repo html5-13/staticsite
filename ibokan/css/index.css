@@ -4,88 +4,88 @@ h1{color:red;}
 /* proj页面样式 */
 h1{color:blue;}
 /* 头部 */
-.index-header{
+#index .index-header{
 	height:338px;
 	background:url(../images/index.gif) repeat-x 0 0;
 	padding-top: 51px;
 }
-.index-top{
+#index .index-top{
 	width:977px;
 	margin:0 auto;
 	
 }
-.index-top1{
+#index .index-top1{
 	width:702px;
 	height:320px;
 	float:left;
 }
-.index-top1 .circle{
+#index .index-top1 .circle{
 	width:690px;
 }
-.index-t1-tm{
+#index .index-t1-tm{
 	background:url(../images/index-top1l.gif) no-repeat 0 0 ;
 	height:320px;
 	width:10px;
 	float:left;
 }
-.index-t1-con{
+#index .index-t1-con{
 	background-color:#e6e6e6;
 	width:669px;
 	height:320px;
 	background:url(../images/index-top1c.gif) repeat-x 0 0 ;
 	float:left;
 }
-.index-t1-bm{
+#index .index-t1-bm{
 	background:url(../images/index-top1r.gif) no-repeat 0 0 ;
 	float:left;
 	height:320px;
 	width:11px;
 }
-.index-t1con{
+#index .index-t1con{
 	margin:11px 11px 0 2px;
 	width:668px;
 	height:278px;
 	position:relative;
 }
-.index-etnl{
+#index .index-etnl{
 	position:absolute;
 	left:-29px;
 	top:128px;
 }
-.index-etnr{
+#index .index-etnr{
 	position:absolute;
 	right:-29px;
 	top:128px;
 }
-.index-t1bottom{
+#index .index-t1bottom{
 	width:119px;
 	height:17px;
 	margin: auto auto;
 }
-.index-top2{
+#index .index-top2{
 	width:260px;
 	height:320px;
 	float:right;
 }
-.index-t2l{
+#index .index-t2l{
 	background:url(../images/index-t2l.gif) no-repeat 0 0;
 	width:9px;
 	height:320px;
 	float:left;
 }
-.index-t2c{
+#index .index-t2c{
 	background:url(../images/index-t2c.gif) repeat-x 0 0;
 	height:320px;
 	width:243px;
 	float:left;
 }
-.index-t2r{
+#index .index-t2r{
 	width:8px;
 	background:url(../images/index-t2r.gif) no-repeat 0 0;
 	height:320px;
 	float:left;
 }
-.index-t2new{
+#index .index-t2new{
 	width:240px;
 	height:50px;
 	background:url(../images/index-t2new.gif) no-repeat 0 0;
@@ -94,14 +94,14 @@ h1{color:blue;}
 	line-height:50px;
 	margin-top:6px;
 }
-.index-t2ul{
+#index .index-t2ul{
 	list-style:none;
 	width:211px;
 	height:222px;
 	margin:5px auto;
 	overflow:hidden;
 }
-.index-t2li{
+#index .index-t2li{
 	width:211px;
 	float:left;
 	font-size:14px;
@@ -110,72 +110,72 @@ h1{color:blue;}
 	line-height:38px;
 	background:url(../images/index-li.gif) repeat-x 0 bottom;
 }
-.index-con{
+#index .index-con{
 	margin-top:17px;
 	text-align:center;
 }
-.index-stu{
+#index .index-stu{
 	width:978px;
 	margin:0 auto 14px;
 }
-.index-stu .circle-con{
+#index .index-stu .circle-con{
 	position:relative;
 	width:976px;
 }
-.index-simg{
+#index .index-simg{
 	float:left;
 	margin:10px 0 0 30px;
 	width:127px;
 	text-align:center;
 	_display:inline;
 }
-.index-slfet{
+#index .index-slfet{
 	position:absolute;
 	left:-25px;
 	top:47px;
 }
-.index-sright{
+#index .index-sright{
 	position:absolute;
 	right:-25px;
 	top:47px;
 }
-.index-c-prn{
+#index .index-c-prn{
 	margin:0 auto;
 	width:976px;
 }
-.index-pro{
+#index .index-pro{
 	margin:0 auto;
 	width:343px;
 	float:left;
 }
-.index-pro .circle-con{
+#index .index-pro .circle-con{
 	padding-left:4px;
 	padding-top:11px;
 	position:relative;
 }
-.index-pro .circle-con .index-prol{
+#index .index-pro .circle-con .index-prol{
 	position:absolute;
 	left:0;
 	top:98px;
 }
-.index-pro .circle-con .index-pror{
+#index .index-pro .circle-con .index-pror{
 	position:absolute;
 	right:0;
 	top:98px;
 }
 
-.index-repp{
+#index .index-repp{
 	width:342px;
 	float:left;
 	margin:0 16px;
 	_zoom:1;
 }
-.index-newpro{
+#index .index-newpro{
 	width:259px;
 	float:left;
 }
 
-.index-pimg{
+#index .index-pimg{
 	text-align:center;
 	width:78px;
 	height:112px;
@@ -183,26 +183,26 @@ h1{color:blue;}
 	margin:6px 0 5px 22px;
 	_display:inline;
 }
-.index-reimg img{
+#index .index-reimg img{
 	margin:16px 14px 1px 13px;
 }
-.circle-con .pnPage{
+#index .circle-con .pnPage{
 	padding:0 8px 3px;
 }
-.index-newpro .circle-con{
+#index .index-newpro .circle-con{
 	height:257px;
 	width:257px;
 	overflow:hidden;
 }
-.index-c-tz{
+#index .index-c-tz{
 	margin:14px auto 0;
 	width:976px;
 }
-.index-c-tea{
+#index .index-c-tea{
 	width:701px;
 	float:left;
 }
-.index-c-tea .circle-con dl{
+#index .index-c-tea .circle-con dl{
 	width: 330px;
 	color: #797979;
 	float: left;
@@ -210,11 +210,11 @@ h1{color:blue;}
 	margin-top: 14px;
 	display: inline;
 }
-.index-c-tea .circle-con dt{
+#index .index-c-tea .circle-con dt{
 	float:left;
 	height: 135px;
 }
-.index-c-tea .circle-con dd{
+#index .index-c-tea .circle-con dd{
 	float: left;
 	width: 150px;
 	margin-left: 12px;
@@ -222,20 +222,20 @@ h1{color:blue;}
 	overflow: hidden;
 	text-align:left;
 }
-.index-c-join{
+#index .index-c-join{
 	width:259px;
 	float:right;
 }
-.index-c-join a{
+#index .index-c-join a{
 	color:#797979;
 }
-.index-c-join .circle-con ul{
+#index .index-c-join .circle-con ul{
 	margin-left: 13px;
 	padding-top: 1px;
 	overflow:hidden;
 
 }
-.index-c-join .circle-con li{
+#index .index-c-join .circle-con li{
 	overflow: hidden;
 	width:235px;
 	height:35px;
@@ -244,22 +244,22 @@ h1{color:blue;}
 	background: url(../images/index-join.gif) 0 bottom repeat-x;
 	text-align:left;
 }
-.index-c-join .circle-con .index-c-joinli{
+#index .index-c-join .circle-con .index-c-joinli{
 	background: none;
 }
-.index-c-dpo{
+#index .index-c-dpo{
 		margin:14px auto 0;
 		width:976px;
 }
-.index-c-dll{
+#index .index-c-dll{
 	width:342px;
 	float:left;
 }
-.index-c-dll .circle-con ul{
+#index .index-c-dll .circle-con ul{
 	margin-left: 15px;
 	height:188px;
 }
-.index-c-dll .circle-con li{
+#index .index-c-dll .circle-con li{
 	text-align:left;
 	width: 301px;
 	height: 36px;
@@ -268,29 +268,29 @@ h1{color:blue;}
 	line-height: 36px;
 	background: url(../images/job/libj.gif) 0 bottom repeat-x;
 }
-.index-c-dll a{
+#index .index-c-dll a{
 	color:#797979;
 }
-.index-c-dll .circle-con .index-dll-li{
+#index .index-c-dll .circle-con .index-dll-li{
 	background: none;
 }
-.index-c-px{
+#index .index-c-px{
 	width:342px;
 	float:left;
 	margin:0 15px;
 	display:inline;
 }
-.index-c-px .circle-con{
+#index .index-c-px .circle-con{
 	padding-top:11px;
 }
-.index-c-px .circle-con .index-px-pro{
+#index .index-c-px .circle-con .index-px-pro{
 	background:url(../images/index-pxwen.gif) 0 0 no-repeat;
 	width:322px;
 	height:35px;
 	margin: 0px auto 0;
 	overflow: hidden;
 }
-.index-px-pro strong{
+#index .index-px-pro strong{
 	float: left;
 	width: 37px;
 	line-height: 36px;
@@ -300,24 +300,24 @@ h1{color:blue;}
 	font-size:11px;
 	}
 
-	.index-newpro .circle-con .c_dl-word{
+#index 	.index-newpro .circle-con .c_dl-word{
 		text-align:left;
 	}
-	.index-px-pro span{
+#index 	.index-px-pro span{
 		float: left;
 		width: 205px;
 		line-height: 36px;
 		text-align: center;
 		color: #868686;
 	}
-	.index-px-an{
+#index 	.index-px-an{
 		background:url(../images/index-px.gif) 0 0 no-repeat;
 		width:324px;
 		height:95px;
 		margin:9px auto 12px;
 		overflow:hidden;
 	}
-.index-px-an p{
+#index .index-px-an p{
 	line-height: 22px;
 	margin: 0 auto;
 	margin-top: 20px;
@@ -325,19 +325,19 @@ h1{color:blue;}
 	text-align:left;
 	width:300px;
 }
-.index-c-px .circle-con .pnPage{
+#index .index-c-px .circle-con .pnPage{
 	padding:17px 8px 3px ;
 }
-.index-c-onl{
+#index .index-c-onl{
 	width:259px;
 	float:right;
 }
-.index-c-onl .circle-con .index-onl-img{
+#index .index-c-onl .circle-con .index-onl-img{
 	height: 165px;
 	text-align: center;
 	padding-top: 14px;
 }
-.index-c-onl .index-onl-li{
+#index .index-c-onl .index-onl-li{
 	border-bottom:1px solid #e5e5e5;
 	height:76px;
 	margin:0;
@@ -345,7 +345,7 @@ h1{color:blue;}
 	text-align:left;
 	padding:0 15px;
 }
-.index-c-onl .index-onl-li2{
+#index .index-c-onl .index-onl-li2{
 	text-align:left;
 	margin:0 auto;
 	width:230px;
@@ -353,7 +353,7 @@ h1{color:blue;}
 	height:34px;
 	line-height:34px;
 }
-.index-c-onl .index-onl-li3{
+#index .index-c-onl .index-onl-li3{
 	text-align:left;
 	margin:0 auto;
 	width:230px;
@@ -361,26 +361,26 @@ h1{color:blue;}
 	height:34px;
 	line-height:34px;
 }
-.index-c-onl .index-onl-li4{
+#index .index-c-onl .index-onl-li4{
 	text-align:left;
 	margin:0 auto;
 	width:230px;
 	height:34px;
 	line-height:34px;
 }
-.index-c-fn{
+#index .index-c-fn{
 		margin:14px auto 0;
 		width:976px;
 }
-.index-c-four{
+#index .index-c-four{
 	width:701px;
 	float:left;
 }
-.index-c-four .titleBar-r{
+#index .index-c-four .titleBar-r{
 	padding:0px;
 	height:30px;
 }
-.index-fourtop1{
+#index .index-fourtop1{
 	width:101px;
 	height:23px;
 	background:url(../images/index-fourtop1.gif) 0 0 no-repeat;
@@ -388,12 +388,12 @@ h1{color:blue;}
 	float:left;
 	_display:inline;
 }
-.index-c-four .titleBar-r .index-fourtop1 h3{
+#index .index-c-four .titleBar-r .index-fourtop1 h3{
 	color:#ffffff;
 	font-size:13px;
 	line-height:23px;
 }
-.index-fourtop2{
+#index .index-fourtop2{
 	width:101px;
 	height:23px;
 	background:url(../images/index-fourtop2.gif) 0 0 no-repeat;
@@ -402,23 +402,23 @@ h1{color:blue;}
 	_display:inline;
 
 }
-.index-c-four .titleBar-r .index-fourtop2 h3{
+#index .index-c-four .titleBar-r .index-fourtop2 h3{
 	color:#222121;
 	font-size:15px;
 	line-height:23px;
 }
-.index-c-news{
+#index .index-c-news{
 	width:259px;
 	margin-left:15px;
 	float:right;
 	_display:inline;
 }
-.index-c-four .circle-con{
+#index .index-c-four .circle-con{
 	padding:12px 0 0 38px;
 	position:relative;
 	width:661px;
 }
-.index-four1{
+#index .index-four1{
 	width:137px;
 	height:120px;
 	float:left;
@@ -427,23 +427,23 @@ h1{color:blue;}
 	margin:0 25px 13px 0;
 	_display:inline;
 }
-.index-prol{
+#index .index-prol{
 	position:absolute;
 	left:0;
 	top:37px;
 
 }
-.index-pror{
+#index .index-pror{
 	position:absolute;
 	right:0;
 	top:37px;
 }
-.index-c-news .circle-con ul{
+#index .index-c-news .circle-con ul{
 	margin-left: 13px;
 	padding-top: 1px;
 	overflow: hidden;
 }
-.index-c-news .circle-con li{
+#index .index-c-news .circle-con li{
 	width: 235px;
 	height: 35px;
 	line-height: 35px;
@@ -452,23 +452,23 @@ h1{color:blue;}
 	text-align: left;
 	overflow: hidden;
 }
-.index-c-news .circle-con a{
+#index .index-c-news .circle-con a{
 	color:#989898;
 }
-.index-c-news .circle-con .index-c-joinli{
+#index .index-c-news .circle-con .index-c-joinli{
 	background:none;
 }
-.index-stuen{
+#index .index-stuen{
 	margin:15px auto 27px;
 	width:978px;
 }
-.index-stuen .circle-con{
+#index .index-stuen .circle-con{
 	padding:15px 0 0 6px;
 }
-.index-stuen .circle-con img{
+#index .index-stuen .circle-con img{
 	margin:0 17px 17px 23px;
 	float:left;
 }
-.index-con .circle-con{
+#index .index-con .circle-con{
 	background-color:white;
 }
