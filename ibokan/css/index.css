@@ -9,6 +9,9 @@ h1{color:blue;}
 	background:url(../images/index.gif) repeat-x 0 0;
 	padding-top: 51px;
 }
+#index a:hover{
+	text-decoration:none;
+}
 #index .index-top{
 	width:977px;
 	margin:0 auto;
