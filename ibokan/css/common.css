@@ -430,7 +430,7 @@
 /*公司项目+学生项目*/
 /*comP_rc*/
 .comP_rc {width:260px; } 
-.titleBar-icon { display: none; } 
+.comP_rc .titleBar-icon { display: none; } 
 .comP_rc .circle-con{width:258px; background:#ffffff; } 
 .c_dl-div,.c_dl-cl{width:258px; height:94px; padding-top:17px; border-bottom:1px solid #e3e3e3; } 
 .circle-con .c_dl-cl{border:none; } 
@@ -440,7 +440,7 @@
 /*培训答疑*/
 /*tqa_rc*/
 .tqa_rc{width:260px; } 
-.titleBar-icon { display: none; } 
+.tqa_rc .titleBar-icon { display: none; } 
 .tqa_rc .circle-con{width:258px; background:#ffffff; padding-top:12px; } 
 .th_pl-words{width:246px; height:36px; margin:0 auto; overflow:hidden; background:url(../images/th_pl-bg1.gif) 0px 0px no-repeat; } 
 .th_pl-words strong{float:left; width:37px; line-height:36px; text-align:center; font-weight:bold; color:#646464; } 
@@ -451,7 +451,7 @@
 /*企业反馈*/
 /*comm_rc*/
 .comm_rc{width:260px; } 
-.titleBar-icon{ display: none; } 
+.comm_rc .titleBar-icon{ display: none; } 
 .comm_rc .circle-con{width:258px; background:#ffffff; overflow:hidden;} 
 .cxy-bg{float:left; width:44px; height:32px; margin-top:14px; margin-left:15px; overflow:hidden; } 
 .cxy-word{float:left; width:183px; height:30px; margin-top:16px; margin-left:12px; font-size:14px; color:#b7b7b7; overflow:hidden; } 
