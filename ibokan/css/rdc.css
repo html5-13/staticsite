@@ -81,6 +81,7 @@
 }
 #rdc .content .news li a:hover{
 	color:#ff7022;
+	text-decoration:none;
 }
 #rdc .content .research .circle-con img{
 	width:130px;
@@ -90,11 +91,48 @@
 #rdc .content .research .circle-con .a-img{
 	float:left;
 	padding:16px 17px 0px;
-	overflow:hidden;
+	text-decoration:none;
+	position:relative;
 }
 #rdc .research .circle-con{
 	background:none;
 	height:260px;
+}
+#rdc .research .circle-con .a-img .position,#rdc .research .circle-con .a-img .hover{
+	display:none;
+}
+#rdc .research .circle-con .a-img:hover .position{
+	position:absolute;
+	left:17px;
+	top:16px;
+	width:135px;
+	height:90px;
+	opacity:0.5;
+	filter:alpha(opacity=50);
+	background-color:black;
+	display:block;
+}
+#rdc .research .circle-con .a-img:hover .hover{
+	width:126px;
+	height:90px;
+	color:white;
+	font-size:12px;
+	padding-left:10px;
+	position:absolute;
+	left:17px;
+	top:16px;
+	display:block;
+}
+#rdc .research .circle-con .a-img .hover h3{
+	padding-top:5px;
+}
+#rdc .research .circle-con .a-img .hover img{
+	width:21px;
+	height:21px;
+	border:0 none;
+	display:block;
+	padding-left:95px;
+	margin-top:-8px;
 }
 #rdc .project .img-con{
 	width:700px;
@@ -105,12 +143,14 @@
 	float:left;
 	margin:38px 0 0;
 	_display:inline;
+	cursor:pointer;
 }
 #rdc .project .circle-con  .img-con .btn-right{
 	width:27px;
 	float:right;
 	margin:38px 0 0;
 	_display:inline;
+	cursor:pointer;
 }
 #rdc .project .circle-con{
 	background:white;
@@ -124,4 +164,7 @@
 	_display:inline;
 	text-decoration:none;
 	color:black;
+}
+#rdc .feedback .cxy-word{
+	margin-top:19px;
 }
