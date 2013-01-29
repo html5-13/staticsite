@@ -4,6 +4,9 @@
 	margin-bottom:31px;
 	
 }
+#job .job-left-intern .titleBar-icon{
+	display:block; 
+}
 #job .circle-tm,#job .circle-con,#job .circle-bm{
 	background-color:#fff;
 }
@@ -43,6 +46,9 @@
 .job-left-intern .circle-con ul{
 	padding-top:10px;
 }
+.job-left-intern .circle-con li a{
+	text-decoration:none;
+}
 .job-left-intern .circle-con li a div{
 	color:#858585;
 	text-align:center;
@@ -50,6 +56,9 @@
 /*招聘活动*/
 #job .job-left-invite{
 	margin-top:15px;
+}
+#job .job-left-invite .titleBar-icon{
+	display:block; 
 }
 #job .job-left-invite{
 	float:left;
@@ -88,6 +97,10 @@
 	margin-top:15px;
 	display:inline;
 }
+#job .job-left-news .titleBar-icon{
+	display:block; 
+}
+
 #job .job-left-news ul{
 	margin-left:18px;
 	padding-top:1px;
@@ -114,9 +127,15 @@
 #job .job-left-musings{
 	float:left;
 	margin-top:15px;
+
 }
+#job .job-left-musings .titleBar-icon{
+	display:block; 
+}
+
 #job .job-left-musings dl{
 	overflow:hidden;
+	zoom:1;
 	padding-top:8px;
 	background:url(../images/teacher/teacherbj.gif) 0 bottom repeat-x;
 }
@@ -134,6 +153,9 @@
 }
 #job .job-left-musings .job-left-dl-te{
 	background:none;
+}
+#job .job-left-musings dd a{
+	color:#A00000;
 }
 #job .job-left-musings dd{
 	color:#6e6e6e;
@@ -163,6 +185,10 @@
 	font-size:14px;
 	color:#6e6e6e;
 }
+#job .coursedetail li a{
+	color:#797979;
+	text-decoration:none;
+}
 #job .coursedetail li p{
 	font-size:12px;
 }
@@ -172,10 +198,17 @@
 }
 #job .coursedetail .course2{
 	height:35px;
+	line-height:34px;
 	background:url('../images/job/libj.gif') 0 bottom repeat-x;
 }
 #job .coursedetail .course3{
 	height:35px;
+	line-height:34px;
+	background:url('../images/job/libj.gif') 0 bottom repeat-x;
+}
+#job .coursedetail .course4{
+	height:35px;
+	line-height:34px;
 }
 #job .job-right-show .circle{
 	width:260px;
@@ -183,31 +216,7 @@
 }
 /*项目展示*/
 
-#job .job-right-show .project1{
-	height:114px;
-	border-bottom:1px solid #e5e5e5;
-	overflow:hidden;
-}
-#job .job-right-show .project1 dt{
-	width:117px;
-	float:left;
-	text-align:center;
-	padding-top:15px;
-}
-#job .job-right-show .project1 dd{
-	width:140px;
-	float:left;
-	padding-top:14px;
-	font-size:11px;
-}
-#job .job-right-show #border-none{
-	border-bottom:1px solid white;
-}
-#job .advantage li{
-	height:35px;
-	line-height:35px;
-	width:237px;
-	margin-left:10px;
-	padding-left:40px;
-	
+#job .job-right-show{
+	margin-top:11px;
+	_margin-top:13px;
 }
