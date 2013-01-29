@@ -11,7 +11,7 @@
 	font-size:14px;
 	color:#fe7d32;
 	margin:0 auto;
-	font-weight: 600; /* font-weight:bold;对雅黑字体显示不好看*/
+	font-weight:599; /* font-weight:bold;对雅黑字体显示不好看*/
 	margin-top:20px;
 }
 #te_ia .te_ia-b1-word2{
@@ -24,7 +24,7 @@
 #te_ia .te_ia-block1 .te_ia-b1-word3{
 	font-size:14px;
 	color:#535351;
-	line-height:25px;
+	line-height:30px;
 	text-indent:40px;
 	width:900px;
 	margin:0 auto;
@@ -32,7 +32,7 @@
 #te_ia .te_ia-block1 .te_ia-b1-word2s{
 	font-size:14px;
 	color:#535351;
-	line-height:25px;
+	line-height:30px;
 	text-indent:600px;
 	width:900px;
 	margin:0 auto;
