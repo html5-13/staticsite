@@ -10,12 +10,12 @@
 #qa .qa-All{
 	padding:3px;
 	background:#f7fafb;
+	zoom:1;
 }
 #qa .qa-allOne{
-	width:922px;
+	width:920px;
 	height:35px;
 	display:block;
-	overflow:hidden;
 	margin:19px auto 0;
 	text-decoration:none;
 }
@@ -31,6 +31,9 @@
 #qa .qa-allOne:hover .qa-oneRight{
 	background:url(../images/qa_10_2.gif) right -70px no-repeat;
 	height:35px;
+}
+#qa .arcInfo{
+	background:#f7fafb;
 }
 #qa .qa-allCen{
 	display:none;
@@ -52,10 +55,10 @@
 }
 #qa .qa-allOne span{
 	float:left;
-	font-size:16px;
+	font-size:15px;
 	margin-left:14px;
 	line-height:35px;
-	color:#646464;
+	color:#7c7c7b;
 }
 #qa .qa-oneLeft{
 	background:url(../images/qa_10_1.gif) 0 0 no-repeat;
