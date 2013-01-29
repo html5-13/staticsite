@@ -57,6 +57,7 @@
 	width:146px;
 	margin-right:4px;
 	display:inline;
+	color:#cbcbcb;
 }
 #sign .sign-sel1{
 	width:67px;
@@ -114,21 +115,17 @@
 	background-color:#ffffff;
 }
 #sign .sign-div1{
-	height:178px;
 	width:260px;
 	margin-bottom:15px;
 	float:right;
 }
-.sign-div2{
-	height:212px;
+#sign .sign-div2{
 	width:260px;
 	margin-bottom:15px;
 	float:right;
 }
-.sign-div3{
-	height:202px;
+#sign .sign-div3{
 	width:260px;
-	margin-top:4px;
 	float:right;
 }
 
