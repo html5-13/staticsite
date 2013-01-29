@@ -12,10 +12,18 @@
 	</div>
 	<div class="circle-con">
 		<ul class="nc-rc-ul">
-			<li class="nc-rc-li"><span class="nc-rc-span">IOS高级开发23班</span><span class="nc-rc-span1">5月20日</span></li>
-			<li class="nc-rc-li"><span class="nc-rc-span">HTML5程序开发课程</span><span class="nc-rc-span1">5月20日</span></li>
-			<li class="nc-rc-li"><span class="nc-rc-span">Android开发培训课程</span><span class="nc-rc-span1">5月20日</span></li>
-			<li class="nc-rc-last"><span class="nc-rc-span">IOS精选周末班</span><span class="nc-rc-span1">5月20日</span></li>
+			<a href="../thrg/th_ca.html">
+				<li class="nc-rc-li"><span class="nc-rc-span">IOS高级开发23班</span><span class="nc-rc-span1">5月20日</span></li>
+			</a>
+			<a href="../thrg/th_ca.html">
+				<li class="nc-rc-li"><span class="nc-rc-span">HTML5程序开发课程</span><span class="nc-rc-span1">5月20日</span></li>
+			</a>
+			<a href="../thrg/th_ca.html">
+				<li class="nc-rc-li"><span class="nc-rc-span">Android开发培训课程</span><span class="nc-rc-span1">5月20日</span></li>
+			</a>
+			<a href="../thrg/th_ca.html">
+				<li class="nc-rc-last"><span class="nc-rc-span">IOS精选周末班</span><span class="nc-rc-span1">5月20日</span></li>
+			</a>
 		</ul>
 	</div>
 	<div class="circle-bm">					
