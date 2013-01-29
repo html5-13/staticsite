@@ -414,6 +414,10 @@
 	background:url(../images/index-nav-graybtn.gif) 0 14px no-repeat;
 	color:white;
 }
+.header-nav .nav .select .position .selected,.header-nav .nav .select .position-last .selected{
+	background:url(../images/index-nav-graybtn.gif) 0 14px no-repeat;
+	color:white;
+}
 .nav-positionbg{
 	height:58px;
 	width:100%;
