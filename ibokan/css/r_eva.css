@@ -51,6 +51,9 @@
 	color:#fd8e4d;
 	font-size:14px;
 }
+#r_eva .eva-1 .detail .corporate{
+	line-height:30px;
+}
 #r_eva .eva-1 .title{
 	overflow:hidden;
 	height:75px;
@@ -61,6 +64,7 @@
 	font-size:13px;
 	text-indent:2em;
 	letter-spacing:2px;
+	color:#676766;
 }
 #r_eva .eva-1 .project{
 	font-size:13px;
@@ -76,11 +80,21 @@
 	float:right;
 	margin-left:10px;
 	width:745px;
+	line-height:25px;
+	color:#676766;
 }
 #r_eva .bottom{
 	height:140px;
 	/*background-color:black;*/
 	background-color:#f7fafb;
+}
+#r_eva .arcInfo-l span{
+	color:#676766;
+	font-size:13px;
+}
+#r_eva .arcInfo-r span{
+	color:#676766;
+	font-size:13px;
 }
 /*#r_eva .footer{
 	height:302px;
@@ -98,5 +112,11 @@
 	height:3px;
 	margin:0 auto;
 	background-color:#f7fafb;
+}
+#r_eva .pnPage{
+	background-color:#f7fafb;
+}
+#r_eva #detail-last{
+	border-bottom:none;
 }
 
