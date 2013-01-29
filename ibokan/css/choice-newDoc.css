@@ -14,6 +14,10 @@
 		width:975px;
 		height:1780px;
 	}
+
+#choice	.choice-con .circle .circle-con{
+	width:974px;
+}
 #choice	.choice-conSuper{
 		width:912px;
 		margin:0 auto;
@@ -32,19 +36,20 @@
 	}
 #choice	.choice-c-1{
 		width:915px;
-		margin:0 32px 22px;
+		margin:0 auto;
 		position:relative;
+		margin-bottom:22px;
 	}
 #choice	.choice-c-2{
 		width:915px;
 		height:472px;
-		margin:0 32px 22px;
+		margin:0 auto;
 		
 	}
 #choice	.choice-c-3{
 		width:915px;
 		height:472px;
-		margin:0 32px 22px;
+		margin:0 auto 18px;
 		position:relative;
 		background-color:#f7fafb;
 	}
