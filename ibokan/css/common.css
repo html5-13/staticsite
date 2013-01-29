@@ -1,4 +1,4 @@
- /*以下为整个项目用到的所有组件 */
+﻿ /*以下为整个项目用到的所有组件 */
 
 /*现在位置组件：nowPos*/
 /*
@@ -462,6 +462,7 @@
 /*就业感言*/
 /*wt-rc*/
 .wt-rc{width:260px; } 
+.wt-rc .titleBar-icon { display: none; } 
 .wt-rc .pic{padding-bottom:6px; } 
 .wt-rc .left{float:left; width:26px; height:38px; margin-top:61px; } 
 .wt-rc .middle{float:left; width:168px; height:118px; margin:0 auto; margin-top:13px; margin-left:19px; } 
@@ -473,7 +474,7 @@
 /*最新开班*/
 /*nc-rc*/
 .nc-rc{width:260px; } 
-.titleBar-icon { display: none; } 
+.nc-rc .titleBar-icon { display: none; } 
 .nc-rc .circle-con{width:258px; background:#ffffff; } 
 .nc-rc-ul{width:235px; height:140px; margin:0 auto; overflow:hidden; } 
 .nc-rc-li,.nc-rc-last{float:left; width:235px; line-height:35px; color:#6e6e6e; overflow:hidden; border-bottom:1px dotted #a8a6a6; } 
@@ -483,6 +484,7 @@
 /*就业学员*/
 /*ws-rc*/
 .ws-rc {width:260px; } 
+.ws-rc .titleBar-icon { display: none; } 
 .ws-rc .pic{overflow:hidden; } 
 .ws-rc .pic {padding: 8px 0 0 8px; } 
 .ws-rc .pic a{display: inline; float:left; margin-left:6px; } 
@@ -493,6 +495,7 @@
 /*ds-rc*/
 .ds-rc li{height:35px; line-height:35px; width:197px; margin-left:10px; padding-left:40px; overflow:hidden; } 
 .ds-rc li a {color:#797979; } 
+.ds-rc .titleBar-icon { display: none; } 
 .ds-rc li a:hover {color:#797979; text-decoration: none; } 
 .ds-rc .list1{background:url('../images/bg1.gif') 0 bottom no-repeat; } 
 .ds-rc .list2{background:url('../images/bg2.gif') 0 bottom no-repeat; } 
@@ -502,6 +505,7 @@
 /*师资介绍*/
 /*ti_rc*/
 .ti_rc .left{float:left; width:26px; height:38px; margin-top:61px; } 
+.ti_rc .titleBar-icon { display: none; } 
 .ti_rc .middle{float:left; width:168px; height:118px; margin:0 auto; margin-top:23px; margin-left:19px; } 
 .ti_rc .right{float:right; width:26px; height:38px; margin-top:61px; } 
 .ti_rc{width:260px; } 
@@ -511,7 +515,8 @@
 .ti_rc .name{padding-left:23px; }
 /*业务列表*/
 /*bl-rc*/
-.bl-rc{width:260px; } 
+.bl-rc{width:260px; }
+.bl-rc .titleBar-icon { display: none; }  
 .bl-rc li{width:194px; margin-left:15px; height:35px; line-height:35px; padding-left:40px; font-size:12px; overflow:hidden; } 
 .bl-rc li a {color:#797979; } 
 .bl-rc li a:hover {color:#797979; text-decoration: none; } 
@@ -523,6 +528,7 @@
 /*在线教程*/
 /*et-rc*/
 .et-rc{width:260px; } 
+.et-rc .titleBar-icon { display: none; } 
 .carimg{height:171px; text-align:center; padding-top:14px; } 
 .coursedetail li{width:230px; margin:0 auto; overflow:hidden; } 
 .coursedetail li {font-size:14px; color:#6e6e6e; } 
