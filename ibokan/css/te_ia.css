@@ -9,26 +9,31 @@
 #te_ia .te_ia-b1-word1{
 	width:250px;
 	font-size:14px;
-	font-family:微软雅黑;
 	color:#fe7d32;
 	margin:0 auto;
-	font-weight:bold;
+	font-weight: 600; /* font-weight:bold;对雅黑字体显示不好看*/
 	margin-top:20px;
 }
 #te_ia .te_ia-b1-word2{
 	width:260px;
 	font-size:14px;
-	font-family:微软雅黑;
 	color:#fe7d32;
-	text-indent:20px;
+	text-indent:30px;
 	margin:10px;
 }
-#te_ia .te_ia-block1 .te_ia-b1-word2s{
+#te_ia .te_ia-block1 .te_ia-b1-word3{
 	font-size:14px;
-	font-family:微软雅黑;
 	color:#535351;
 	line-height:25px;
 	text-indent:40px;
+	width:900px;
+	margin:0 auto;
+}
+#te_ia .te_ia-block1 .te_ia-b1-word2s{
+	font-size:14px;
+	color:#535351;
+	line-height:25px;
+	text-indent:600px;
 	width:900px;
 	margin:0 auto;
 	margin-top:10px;
@@ -38,5 +43,11 @@
 	width:477px;
 	height:320px;
 	margin:0 auto;
-	padding-top:20px;
+	padding-top:30px;
+}
+#te_ia .arcNav-l span{
+	font-size:14px;
+}
+#te_ia .arcNav-r span{
+	font-size:14px;
 }
