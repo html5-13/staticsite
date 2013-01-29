@@ -11,6 +11,9 @@
 	background-color:#e3e3e3;
 	margin:13px auto 0px;
 }
+#r_sa .middle{
+	height:1110px;
+}
 /*内容*/
 #r_sa .circle{
 	width:980px;
@@ -26,14 +29,19 @@
 #r_sa .devSup{
 	width:914px;
 	margin:0 auto;
-	padding-top:16px;
+	padding-top:20px;
 }
-#r_sa .devSup h3{
+#r_sa .devSup p{
+	width:914px;
+	height:69px;
+	overflow:hidden;
+}
+#r_sa .devSup h2{
 	font-size:16px;
 	color:#fc9c64;
 }
 /*全球技术*/
-#r_sa h4{
+#r_sa h3{
 	font-size:14px;
 	color:#fc9c64;
 }
@@ -42,7 +50,18 @@
 	margin:0 auto;
 	margin-top:46px;
 }
-#r_sa .technology h4{
+#r_sa .technology p{
+	width:914px;
+	height:45px;
+	overflow:hidden;
+}
+#r_sa .technology p.app{
+	width:914px;
+	height:70px;
+	overflow:hidden;
+	text-indent:0px;
+}
+#r_sa .technology h3{
 	background:url("../images/r_sa-quanqiu.gif") 0 4px no-repeat;
 	text-align:center;
 	line-height:24px;
@@ -55,7 +74,18 @@
 	margin:0 auto;
 	margin-top:46px;
 }
-#r_sa .team h4{
+#r_sa .team p{
+	width:914px;
+	height:45px;
+	overflow:hidden;
+}
+#r_sa .team p.app{
+	width:914px;
+	height:70px;
+	overflow:hidden;
+	text-indent:0px;
+}
+#r_sa .team h3{
 	background:url("../images/r_sa-tuandui.gif") 0 4px no-repeat;
 	text-align:center;
 	line-height:24px;
@@ -68,7 +98,15 @@
 	margin:0 auto;
 	margin-top:46px;
 }
-#r_sa .exp h4{
+#r_sa .exp p{
+	width:914px;
+	height:70px;
+	overflow:hidden;
+}
+#r_sa .exp p.good{
+	text-indent:0px;
+}
+#r_sa .exp h3{
 	background:url("../images/r_sa-kuaguo.gif") 0 4px no-repeat;
 	text-align:center;
 	line-height:24px;
@@ -81,7 +119,15 @@
 	margin:0 auto;
 	margin-top:46px;
 }
-#r_sa .cooperate h4{
+#r_sa .cooperate p{
+	width:914px;
+	height:45px;
+	overflow:hidden;
+}
+#r_sa .cooperate p.good{
+	text-indent:0px;
+}
+#r_sa .cooperate h3{
 	background:url("../images/r_sa-hezuo.gif") 0 4px no-repeat;
 	text-align:center;
 	line-height:24px;

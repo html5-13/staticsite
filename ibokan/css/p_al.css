@@ -75,11 +75,13 @@
 	text-decoration:none;
 }
 #p_al .cuteMath p{
-	color:#797979;
+	color:#6e6e6e;
 	font-size:12px;
 	margin-top:12px;
 	margin-left:12px;
 	width:480px;
+	height:42px;
+	overflow:hidden;
 	float:left;	
 }
 #p_al .cuteMath a{

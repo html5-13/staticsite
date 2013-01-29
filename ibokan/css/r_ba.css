@@ -26,23 +26,33 @@
 #r_ba .devSer{
 	width:912px;
 	margin:0 auto;
-	padding-top:16px;
+	padding-top:18px;
 }
-#r_ba .devSer h3{
+#r_ba .devSer h2{
 	font-size:16px;
 	color:#fc9c64;
 }
+#r_ba .devSer p{
+	width:912px;
+	height:50px;
+	overflow:hidden;
+}
 /*iphone、ipad开发*/
-#r_ba h4{
+#r_ba h3{
 	font-size:14px;
 	color:#fc9c64;
 }
 #r_ba .ipDev{
 	width:910px;
 	margin:0 auto;
-	margin-top:36px;
+	margin-top:38px;
 }
-#r_ba .ipDev h4{
+#r_ba .ipDev p{
+	width:910px;
+	height:75px;
+	overflow:hidden;
+}
+#r_ba .ipDev h3{
 	background:url("../images/r_ba-ipad.gif") 0 0 no-repeat;
 	text-align:center;
 	line-height:26px;
@@ -53,10 +63,10 @@
 #r_ba .someItem{
 	width:910px;
 	margin:0 auto;
-	margin-top:14px;
+	margin-top:18px;
 	overflow:hidden;
 }
-#r_ba .someItem h4{
+#r_ba .someItem h3{
 	float:left;
 }
 #r_ba .someItem a{
@@ -83,19 +93,23 @@
 #r_ba .someItem-clause a.worm{
 	margin-left:28px;
 }
-#r_ba .someItem-clause a.direction{
+#r_ba .someItem-clause span.direction{
 	width:27px;
 	height:38px;
 	background:url("../images/r_ba-no1-left.gif") 0 0 no-repeat;
 	margin-top:46px;
 	margin-left:0px;
+	float:left;
+	cursor:pointer;
 }
-#r_ba .someItem-clause a.direction-right{
+#r_ba .someItem-clause span.direction-right{
 	width:27px;
 	height:38px;
 	background:url("../images/r_ba-no1-right.gif") 0 0 no-repeat;
 	margin-top:44px;
 	margin-left:28px;
+	float:right;
+	cursor:pointer;
 }
 #r_ba .someItem-clause-c{
 	background:url("../images/r_ba-con-bg-c.gif") 0 0 repeat-x;
@@ -113,7 +127,18 @@
 	margin:0 auto;
 	margin-top:35px;
 }
-#r_ba .team h4{
+#r_ba .team p{
+	width:912px;
+	height:45px;
+	overflow:hidden;
+}
+#r_ba .team p.app{
+	width:912px;
+	height:75px;
+	overflow:hidden;
+	text-indent:0px;
+}
+#r_ba .team h3{
 	background:url("../images/r_ba-android.gif") 0 0 no-repeat;
 	text-align:center;
 	line-height:24px;
@@ -124,9 +149,9 @@
 #r_ba .exp{
 	width:914px;
 	margin:0 auto;
-	margin-top:46px;
+	margin-top:36px;
 }
-#r_ba .exp h4{
+#r_ba .exp h3{
 	background:url("../images/r_ba-web.gif") 0 0 no-repeat;
 	text-align:center;
 	line-height:24px;

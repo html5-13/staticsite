@@ -58,7 +58,7 @@
 #r_pl .cuteMath span{
 	float:left;
 	margin-left:35px;
-	color:#8b8c8c;
+	color:#6e6e6e;
 	font-size:12px;
 }
 #r_pl .cuteMath span.edu{
@@ -67,9 +67,11 @@
 #r_pl .study{
 	float:left;
 	width:590px;
+	height:42px;
+	overflow:hidden;
 }
 #r_pl .study p{
-	color:#797979;
+	color:#6e6e6e;
 	font-size:12px;
 	margin-left:22px;
 }

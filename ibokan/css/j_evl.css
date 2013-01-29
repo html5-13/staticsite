@@ -13,7 +13,7 @@
 #j_evl .circle{
 	float:left;
 	width:702px;
-	margin-top:6px;
+	margin-top:8px;
 }
 #j_evl .midRig{
 	float:right;
@@ -78,15 +78,22 @@
 	margin-left:12px;
 	font-size:12px;
 	line-height:19px;
-	color:#a2a2a2;
+	color:#6e6e6e;
 }
 #j_evl .circle-con p{
 	float:left;
 	width:340px;
+	height:58px;
+	overflow:hidden;
 	margin-left:12px;
 	font-size:12px;
 	line-height:20px;
-	color:#a2a2a2;
+	color:#6e6e6e;
+}
+#j_evl .circle-con p.flash{
+	width:340px;
+	height:36px;
+	overflow:hidden;
 }
 #j_evl .more{
 	margin-left:12px;
@@ -97,6 +104,11 @@
 #j_evl .pnPage span{
 	float:right;
 	margin-left:0px;
+}
+#j_evl .coursedetail .course1 p{
+	height:46px;
+	width:230px;
+	overflow:hidden;
 }
 /*左侧列表无背景设置*/
 #j_evl .middle .circle-tm{

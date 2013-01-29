@@ -34,15 +34,20 @@
 	margin-top:15px;
 }
 #th_pl .midCon .circle-con{
-	height:180px;
+	height:178px;
 }
 #th_pl .midBot{
 	float:right;
 	width:260px;
-	margin-top:15px;	
+	margin-top:15px;
 }
 #th_pl .midBot .circle-con{
 	height:244px;
+	overflow:hidden;
+}
+#th_pl .tqa_rc .pnPage{
+	padding-bottom:0px;
+	
 }
 /*左侧列表内容*/
 #th_pl .cuteMath{
@@ -61,7 +66,7 @@
 	width:570px;
 	float:left;
 	margin:0px 0px 0px 22px;
-	color:#fca775;
+	color:#fe8640;
 	line-height:15px;
 	font-size:14px;
 	text-decoration:none;
@@ -69,15 +74,16 @@
 #th_pl .cuteMath span{
 	float:left;
 	margin-left:22px;
-	color:#8b8c8c;
+	color:#6e6e6e;
 	font-size:12px;
 }
 #th_pl .study{
 	float:left;
-	width:590px;
+	width:590px;height:42px;
+	overflow:hidden;
 }
 #th_pl .study p{
-	color:#797979;
+	color:#6e6e6e;
 	font-size:12px;
 	margin-left:22px;
 }

@@ -16,8 +16,6 @@
 	height:187px;
 }
 /*开发优势*/
-
-
 #r_tl .midRig .circle-con{
 	height:146px;
 }
@@ -31,10 +29,6 @@
 	height:169px;
 	overflow:hidden;
 }
-
-
-
-
 /**/
 #r_tl .circle{
 	float:left;
@@ -78,14 +72,16 @@
 	font-size:14px;
 	text-decoration:none;
 }
-#r_tl .cuteMath h4.teacher{
+#r_tl .cuteMath h3.teacher{
 	margin-top:0px;
 }
 #r_tl .cuteMath p{
-	color:#797979;
+	color:#6e6e6e;
 	font-size:12px;
 	margin-left:22px;
 	width:480px;
+	height:42px;
+	overflow:hidden;
 	float:left;	
 }
 #r_tl .cuteMath a{

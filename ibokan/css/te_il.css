@@ -40,6 +40,9 @@
 #te_il .midBot .circle-con .pic{
 	height:128px;
 }
+#te_il .midBot .wt-rc{
+	margin:0px;
+}
 #te_il .midBot .wt-rc .content{
 	padding-bottom:0px;
 }
@@ -59,7 +62,7 @@
 #te_il .cuteMath a.name{
 	width:400px;
 	float:left;
-	margin:5px 0px 0px 22px;
+	margin:5px 0px 0px 13px;
 	color:#fca775;
 	line-height:20px;
 	font-size:14px;
@@ -71,15 +74,17 @@
 #te_il .cuteMath p{
 	color:#797979;
 	font-size:12px;
-	margin-left:22px;
+	margin-left:13px;
 	width:480px;
+	height:42px;
+	overflow:hidden;
 	float:left;	
 }
 #te_il .cuteMath a{
 	color:#a00000;
 	text-decoration:underline;
 	float:left;
-	margin-left:21px;
+	margin-left:13px;
 	font-size:11px;
 }
 #te_il .cuteMath.exc{

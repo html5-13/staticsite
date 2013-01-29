@@ -49,6 +49,10 @@
 	float:left;
 	line-height:19px;
 }
+#c_dl .circle-con a:hover{
+	text-decoration:none;
+	cursor:pointer;
+}
 #c_dl .circle-con img{
 	margin-left:20px;
 }
@@ -59,27 +63,33 @@
 	padding-left:12px;
 	padding-top:3px;
 	width:320px;
+	text-decoration:none;
 }
 #c_dl .circle-con span{
 	float:left;
 	margin-left:12px;
 	font-size:12px;
 	line-height:19px;
-	color:#a2a2a2;
+	color:#6e6e6e;
 }
 #c_dl .circle-con p{
 	float:left;
 	width:340px;
+	height:95px;
 	margin-left:12px;
 	font-size:12px;
 	line-height:19px;
-	color:#a2a2a2;
+	color:#6e6e6e;
+	overflow:hidden;
 }
-#c_dl .more{
+#c_dl .more a{
 	margin-left:12px;
 	color:#a00000;
 	text-decoration:underline;
 	font-size:10px;
+}
+#c_dl .more a:hover{
+	text-decoration:underline;
 }
 #c_dl .pnPage span{
 	float:right;
