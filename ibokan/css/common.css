@@ -354,20 +354,27 @@
 }
 .header-nav .nav .shouye{
 	padding:0;
-	width:50px;
-	text-align:center;
-	padding-left:7px;
+	width:76px;
 }
-.header-nav .nav .shouye img{
-	padding-top:18px;
+.header-nav .nav .shouye a{
+	background:url(../images/index-shouye.gif) 38px 18px no-repeat;
+	width:76px;
+	height:42px;
+	float:left;
 }
 .header-nav .nav .nav-btn{
 	float:left;
-	width:111px;
+	width:112px;
 	text-align:center;
 	font-size:13px;
 	color:#686868;
 	height:50px;
+}
+.header-nav .nav .last{
+	width:100px;
+}
+.header-nav .nav .last .nav-btn{
+	width:100px;
 }
 .header-nav .nav a:hover{
 	text-decoration:none;
@@ -397,7 +404,8 @@
 	text-align:center;
 }
 .header-nav .nav .select .nav-btn{
-	background:url(../images/index-navbtn.gif) 0 8px no-repeat;
+	background:url(../images/index-navbtn.gif) 3px 8px no-repeat;
+	width:114px;
 }
 .header-nav .nav .select .position,.header-nav .nav .select .position-last{
 	display:block;
