@@ -2,6 +2,7 @@
 	width:702px;
 	float:left;	
 }
+#teacher .ws-rc .circle-con .pic{ height:124px; } 
 #teacher .circle-tm,#teacher .circle-con,#teacher .circle-bm{
 	background-color:#fff;
 }
