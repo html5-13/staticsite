@@ -1,7 +1,6 @@
 #te_ol .te_ol-content{
 	width:978px;
 	margin:0 auto;
-
 }
 #te_ol .te_ol-contentLeft{
 	width:700px;
@@ -21,6 +20,7 @@
 	height:250px;
 	float:left;
 	margin:15px 0 0 17px;
+	display:inline;
 }
 #te_ol .te_ol-p1{
 	width:207px;
@@ -28,25 +28,23 @@
 }
 #te_ol .te_ol-lword1{
 	font-size:14px;
-	font-family:微软雅黑;
 	color:#fe7d32;
 	overflow:hidden;
 }
 #te_ol .te_ol-lword2{
 	font-size:12px;
-	font-family:微软雅黑;
 	color:#646464;
 	overflow:hidden;
 }
 #te_ol .te_ol-lword3 a{
 	font-size:10px;
-	font-family:微软雅黑;
 	color:#a00000;
 	text-decoration:underline;
 }
 #te_ol .ws-rc{
 	margin-top:15px;
 }
-#te_ol .wt-rc{
+#te_ol .te_ol-contentRight .wt-rc{
 	margin-top:15px;
+	margin-left:0;
 }
