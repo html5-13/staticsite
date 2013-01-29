@@ -102,7 +102,6 @@ h1{color:blue;}
 	width:211px;
 	height:222px;
 	margin:5px auto;
-	overflow:hidden;
 }
 #index .index-t2li{
 	width:211px;
@@ -112,6 +111,14 @@ h1{color:blue;}
 	height:38px;
 	line-height:38px;
 	background:url(../images/index-li.gif) repeat-x 0 bottom;
+}
+#index .index-t2lii{
+	width:211px;
+	float:left;
+	font-size:14px;
+	color:#a2a2a2;
+	height:38px;
+	line-height:38px;
 }
 #index .index-con{
 	margin-top:17px;
@@ -289,7 +296,7 @@ h1{color:blue;}
 #index .index-c-px .circle-con .index-px-pro{
 	background:url(../images/index-pxwen.gif) 0 0 no-repeat;
 	width:322px;
-	height:35px;
+	height:37px;
 	margin: 0px auto 0;
 	overflow: hidden;
 }
@@ -298,9 +305,10 @@ h1{color:blue;}
 	width: 37px;
 	line-height: 36px;
 	text-align: center;
-	font-weight: bold;
+	font-weight:normal;
 	color: #646464;
 	font-size:11px;
+	font-family:"宋体";
 	}
 
 #index 	.index-newpro .circle-con .c_dl-word{
@@ -308,10 +316,11 @@ h1{color:blue;}
 	}
 #index 	.index-px-pro span{
 		float: left;
-		width: 205px;
+		width: 225px;
 		line-height: 36px;
-		text-align: center;
 		color: #868686;
+		font-size: 14px;
+		padding-left: 7px;
 	}
 #index 	.index-px-an{
 		background:url(../images/index-px.gif) 0 0 no-repeat;
@@ -387,7 +396,7 @@ h1{color:blue;}
 	width:101px;
 	height:23px;
 	background:url(../images/index-fourtop1.gif) 0 0 no-repeat;
-	margin:3px 1px 0 5px;
+	margin:3px 1px 0 7px;
 	float:left;
 	_display:inline;
 }
@@ -409,6 +418,12 @@ h1{color:blue;}
 	color:#222121;
 	font-size:15px;
 	line-height:23px;
+}
+#index  .index-c-four .titleBar-r  a:hover{
+	background:url(../images/index-fourtop1.gif) 0 0 no-repeat;
+}
+#index .index-c-four .index-fourtop2 h3:hover{
+		color:white;
 }
 #index .index-c-news{
 	width:259px;
@@ -456,7 +471,7 @@ h1{color:blue;}
 	overflow: hidden;
 }
 #index .index-c-news .circle-con a{
-	color:#989898;
+	color:#6e6e6e;
 }
 #index .index-c-news .circle-con .index-c-joinli{
 	background:none;
