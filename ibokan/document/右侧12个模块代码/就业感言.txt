@@ -6,7 +6,7 @@ html代码：
 			<div class="titleBar-r clearfix">
 				<h2><strong>就业感言</strong></h2> 
 				<span class="titleBar-icon"></span> 
-				<a href="../job/j_al.html" class="titleBar-more"></a>
+				<a href="../job/j_ema.html" class="titleBar-more"></a>
 			</div>
 		</div>
 	</div>
