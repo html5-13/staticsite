@@ -6,7 +6,7 @@
 	margin:0 auto;
 }
 /*内容*/
-#th_pa h3{
+#th_pa h3.year{
 	font-size:14px;
 }
 #th_pa p{

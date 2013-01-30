@@ -38,7 +38,7 @@
 	overflow:hidden;
 }
 /*iphone、ipad开发*/
-#r_ba h3{
+#r_ba h3.year{
 	font-size:14px;
 	color:#fc9c64;
 }
