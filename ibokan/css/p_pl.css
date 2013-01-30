@@ -25,13 +25,10 @@
 #p_pl .midRig .circle-con{
 	height:140px;
 }
-#p_pl .circle-con{
-	height:1074px;
-}
 #p_pl .midCon{
 	float:right;
 	width:260px;
-	margin-top:15px;
+	margin-top:14px;
 }
 #p_pl .midCon .circle-con{
 	height:170px;
@@ -42,7 +39,7 @@
 #p_pl .midBot{
 	float:right;
 	width:260px;
-	margin-top:15px;
+	margin-top:14px;
 }
 #p_pl .midBot .circle-con{
 	height:170px;
@@ -53,14 +50,14 @@
 #p_pl .midBot-b{
 	float:right;
 	width:260px;
-	margin-top:15px;
+	margin-top:14px;
 }
 #p_pl .midBot-b .circle-con{
 	height:445px;
 }
 /*左侧列表内容*/
 #p_pl .cuteMath{
-	padding-top:15px;
+	padding-top:16px;
 	overflow:hidden;
 	font-size:14px;
 	height:114px;
@@ -83,7 +80,7 @@
 #p_pl .cuteMath span{
 	float:left;
 	margin-left:26px;
-	color:#8b8c8c;
+	color:#6e6e6e;
 	font-size:12px;
 	line-height:20px;
 }
@@ -91,10 +88,12 @@
 	margin-left:6px;
 }
 #p_pl .cuteMath p{
-	color:#797979;
+	color:#6e6e6e;
 	font-size:12px;
 	margin-left:6px;
 	width:510px;
+	height:40px;
+	overflow:hidden;
 	float:left;	
 	line-height:20px;
 }
@@ -108,6 +107,7 @@
 }
 #p_pl .cuteMath.exc{
 	background:none;
+	height:147px;
 }
 /*左侧列表无背景设置*/
 #p_pl .mid .circle-tm{
