@@ -100,3 +100,6 @@
 #te_il .mid .circle-bm{
 	background-color:#fff;
 }
+#te_il .c_dl-word:hover{
+	text-decoration:none;
+}

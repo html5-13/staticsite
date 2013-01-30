@@ -119,3 +119,6 @@
 #p_pl .mid .circle-bm{
 	background-color:#fff;
 }
+#p_pl .c_dl-word:hover{
+	text-decoration:none;
+}

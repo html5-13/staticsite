@@ -104,3 +104,6 @@
 #j_eml .mid .circle-bm{
 	background-color:#fff;
 }
+#j_eml .c_dl-word:hover{
+	text-decoration:none;
+}

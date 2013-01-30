@@ -105,3 +105,6 @@
 #p_al .mid .circle-bm{
 	background-color:#fff;
 }
+#p_al .c_dl-word:hover{
+	text-decoration:none;
+}

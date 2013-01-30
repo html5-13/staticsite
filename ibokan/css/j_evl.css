@@ -120,3 +120,6 @@
 #j_evl .middle .circle-bm{
 	background-color:#fff;
 }
+#j_evl .c_dl-word:hover{
+	text-decoration:none;
+}
