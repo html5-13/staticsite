@@ -55,6 +55,13 @@
 	font-size:14px;
 	height:36px;
 }
+#rdc .content .outerpack img{
+	overflow:hidden;
+	display:block;
+	margin:0 auto;
+	margin-top:6px;
+	width:15px;
+}
 #rdc .content .outerpack ul{
 	padding-top:20px;
 	overflow:hidden;
