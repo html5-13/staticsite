@@ -508,6 +508,7 @@
 /*就业学员*/
 /*ws-rc*/
 .ws-rc {width:260px; } 
+.ws-rc .circle-con{width:258px; background:#ffffff; } 
 .ws-rc .titleBar-icon { display: none; } 
 .ws-rc .pic{overflow:hidden; } 
 .ws-rc .pic {padding: 8px 0 0 8px; } 
@@ -528,7 +529,8 @@
 .ds-rc{width:260px; } 
 /*师资介绍*/
 /*ti_rc*/
-.ti_rc .left{float:left; width:26px; height:38px; margin-top:61px; } 
+.ti_rc .left{float:left; width:26px; height:38px; margin-top:61px; }
+.ti_rc .circle-con{width:258px; background:#ffffff; }
 .ti_rc .titleBar-icon { display: none; } 
 .ti_rc .middle{float:left; width:168px; height:118px; margin:0 auto; margin-top:23px; margin-left:19px; } 
 .ti_rc .right{float:right; width:26px; height:38px; margin-top:61px; } 
