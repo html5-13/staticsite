@@ -5,7 +5,7 @@
 #c_ia .c_ia-b1-word1{
 	font-size:16px;
 	color:#fe7d32;
-	text-indent:10px;
+	text-indent:33px;
 	padding-top:10px;
 }
 #c_ia .c_ia-block1{
@@ -14,8 +14,10 @@
 #c_ia .c_ia-block1 p{
 	font-size:14px;
 	color:#535351;
+	width:911px;
 	line-height:25px;
 	text-indent:40px;
+	margin:0 auto;
 	padding:10px;
 }
 #c_ia .c_ia-b1-img{
