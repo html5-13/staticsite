@@ -15,6 +15,9 @@
 	width:262px;
 	float:right;
 }
+#te_ol .te_ol-contentLeft .circle-con{
+	zoom:1;
+}
 #te_ol .te_ol-block1{
 	width:207px;
 	height:250px;
