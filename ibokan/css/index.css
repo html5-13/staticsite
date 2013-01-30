@@ -52,12 +52,12 @@ h1{color:blue;}
 }
 #index .index-etnl{
 	position:absolute;
-	left:-29px;
+	left:-27px;
 	top:128px;
 }
 #index .index-etnr{
 	position:absolute;
-	right:-29px;
+	right:-27px;
 	top:128px;
 }
 #index .index-t1bottom{
@@ -143,7 +143,7 @@ h1{color:blue;}
 }
 #index .index-stu{
 	width:978px;
-	margin:0 auto 14px;
+	margin:13px auto 14px;
 }
 #index .index-stu .circle-con{
 	position:relative;
@@ -361,7 +361,7 @@ h1{color:blue;}
 	width:300px;
 }
 #index .index-c-px .circle-con .pnPage{
-	padding:17px 8px 3px ;
+	padding:12px 8px 3px ;
 }
 #index .index-c-onl{
 	width:259px;
@@ -374,7 +374,7 @@ h1{color:blue;}
 }
 #index .index-c-onl .index-onl-li{
 	border-bottom:1px solid #e5e5e5;
-	height:76px;
+	height:74px;
 	margin:0;
 	width:227px;
 	text-align:left;
@@ -414,6 +414,7 @@ h1{color:blue;}
 #index .index-c-four .titleBar-r{
 	padding:0px;
 	height:30px;
+	
 }
 #index .index-fourtop1{
 	width:101px;
