@@ -528,7 +528,7 @@
 .bl-rc .wl-2{background:url('../images/bg12.gif') 0 bottom no-repeat; } 
 .bl-rc .wl-3{background:url('../images/bg13.gif') 0 bottom no-repeat; } 
 .bl-rc .wl-4{background:url('../images/bg16.gif') 0 bottom no-repeat; } 
-.titlebar h2{font-weight:bold; font-size:14px; } 
+
 /*在线教程*/
 /*et-rc*/
 .et-rc{width:260px; } 
@@ -540,5 +540,5 @@
 .coursedetail .course1{height:76px; background:url('../images/j_eml-dot.gif') 0 bottom repeat-x; } 
 .coursedetail .course2{height:35px; background:url('../images/j_eml-dot.gif') 0 bottom repeat-x; } 
 .coursedetail .course3{height:35px; } 
-.titleBar h2{font-weight:bold; font-size:12px; }
+
 /*==============王静结束===================*/
