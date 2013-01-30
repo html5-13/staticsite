@@ -123,12 +123,14 @@
 .page-bot-bg{
 	margin-top:23px;
 	width:100%;
+	min-width:980px;
 	height:289px;
 	background:url(../images/page-bottom/page-bot-bg.gif) 0 0 repeat-x;
 	padding-top:5px;
 }
 .page-bot-bg-top1{
 	width:100%;
+	min-width:980px;
 	background:url(../images/page-bottom/page-bot-bg-top.gif) 0 -8px repeat-x;
 }
 .page-bot-bg-top2{
