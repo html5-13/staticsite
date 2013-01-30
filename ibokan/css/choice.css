@@ -45,17 +45,17 @@
 	overflow:hidden;
 	_display:inline;
 }
-#choice .choice-sLs .circle-con span{
+#choice .choice-sLs .circle-con .choice-sLs-zi{
 	font-size:12px;
 	color:#b84040;
 	float:left;
-	margin-left:13px;overflow:hidden;
+	margin-left:13px;
 	text-decoration:underline;
 	_display:inline;
 }
-#choice .choice-sLs .circle-con a{
+#choice .choice-sLs .circle-con .choice-sLs-tu{
 	float:right;
-	margin:14px 17px 0 0;overflow:hidden;
+	margin:14px 17px 0 0;
 	_display:inline;
 }
 #choice .choice-sR{
@@ -86,6 +86,8 @@
 	_display:inline;
 }
 #choice .choice-sLx .circle-con ol li{
+	float:left;
+	width:330px;
 	background:url(../images/dian.gif) 0 0 repeat-x;
 }
 #choice .choice-sLx .circle-con ol .circle-conTl{
@@ -93,74 +95,54 @@
 }
 #choice .choice-sLx .circle-con ol li a{
 	color:#838383;
+	margin-left:0;
+	overflow:hidden;
 }
-#choice .choice-sLx .circle-con ol li:hover a{
+#choice .choice-sLx .circle-con ol li a:hover{
 	color:#ff6511;
 	text-decoration:none;
 }
 #choice .choice-x{
 	width:978px;
-	margin:15px 0 20px 0;
 	overflow:hidden;
-}
-#choice .choice-x .choice-xLs .circle-con{
-	height:392px;
-}
-#choice .circle-conTls{
-	height:333px;
-	float:left;
-	margin:16px 0 3px 17px;
+	margin:15px 0 20px 0;
 }
 #choice .choice-xLs{
 	width:702px;
-	float:left;overflow:hidden;
-	_display:inline;
-	height:429px;
-}
-#choice .circle-conTrs{
-	float:right;
-	height:106px;
-	margin:16px 17px 0 0;
-	_display:inline;
-}
-#choice .circle-conTrc{
-	float:right;
-	height:106px;
-	margin:9px 17px 0 0;
-	_display:inline;
-}
-#choice .circle-conTrx{
-	float:right;
-	
-	margin:9px 17px 0 0;
-	_display:inline;
-}
-#choice .pnPageclearfix{
-	float:right;
+	float:left; 
 	overflow:hidden;
-	width:300px;
-	margin-right:10px;
-	margin-top:-20px;
-	_zoom:1;
+	_display:inline;
 }
-#choice .circle-conTlx{
+#choice .choice-xLs .circle-con{
+	height:382px; 
+	padding:6px 6px 0 17px; 
+}
+#choice .practice-sLx-left{
+	width:500px; 
 	float:left;
-	overflow:hidden;
-	height:16px;
-	line-height:16px;
-	color:#6e6e6e;
-	font-size:14px;
-	margin:10px 0 8px 16px;
-	text-decoration:none;
-	_display:inline;
+	overflow:hidden; 
+	margin-top:10px;
+	float:left;
 }
-/*
-#choice .choice-xLs .pnPageClearfix span{
-	color:#8d8d8d;
-	text-decoration:none;
-}*/
-
-
+#choice .practice-sLx-left span{
+	color:#989898; 
+	margin-top:6px;
+	width:40%;;
+	float:left;
+	font-size:13px;
+}
+#choice .practice-sLx-right{
+	width:168px;
+	overflow:hidden; 
+	float:right; 
+}
+#choice .choice-xLs .circle-con .practice-sLx-right a{
+	margin-top:9px;overflow:hidden; 
+	float:left;
+}
+#choice .choice-xLs .circle-con .practice-sLx-right .pnPage{
+	margin:0;
+}
 #choice .choice-xLx .circle-con{
 	width:700px;
 	height:183px;
@@ -171,55 +153,23 @@
 	float:left;
 	border-right:1px dotted #dedede;
 }
-
-#choice .choice-xLx .circle-conxx h5{
-	height:50px;
-	width:206px;
-	font-size:14px;
-	padding-left:10px;
-	color:#616161;
-	line-height:25px;
-	margin:0 auto;
+#choice .choice-xLx .circle-conxx h3{
+	padding-right:10px;
 }
 #choice .choice-xLx .circle-conxx p{
-	width:206px;
-	font-size:12px;
-	height:96px;
-	padding-left:10px;
-	margin:0 auto;
-	line-height:24px;
-	overflow:hidden;
-	text-indent:2em;
-	color:#b0b0b0;
-	margin-bottom:12px;
+	padding-right:10px;
 }
-
 #choice .circle-conxc{
 	width:223px;
 	height:183px;
 	float:left;
 	border-right:1px dotted #dedede;
 }
-#choice .choice-xLx .circle-conxc h5{
-	height:50px;
-	width:206px;
-	font-size:14px;
-	color:#616161;
-	line-height:25px;
+#choice .choice-xLx .circle-conxc h3{
 	padding-left:10px;
-	margin:0 auto;
 }
 #choice .choice-xLx .circle-conxc p{
-	width:206px;
-	margin:0 auto;
-	font-size:12px;
-	height:96px;
-	line-height:24px;
 	padding-left:10px;
-	overflow:hidden;
-	color:#b0b0b0;
-	text-indent:2em;
-	margin-bottom:12px;
 }
 #choice .choice-xLx .circle-conxl{
 	width:223px;
@@ -227,24 +177,30 @@
 	float:left;
 	margin:0 auto;
 }
-#choice .choice-xLx .circle-conxl h5{
-	height:50px;
-	width:206px;
-	font-size:14px;
-	color:#616161;
-	line-height:25px;
-	margin:0 auto;
+#choice .choice-xLx .circle-conxl h3{
+	margin-left:18px;
 }
 #choice .choice-xLx .circle-conxl p{
+	margin-left:15px;
+}
+#choice .choice-xLx .circle-conxx p,.circle-conxl p,.circle-conxc p{
 	width:206px;
-	font-size:12px;
 	height:96px;
 	line-height:24px;
-	margin:0 auto;
+	font-size:12px;
 	overflow:hidden;
 	color:#b0b0b0;
+	margin:0 auto;
 	text-indent:2em;
-	margin-bottom:12px;
+}
+#choice .choice-xLx .circle-conxx h3,.circle-conxl h3,.circle-conxc h3{
+	height:60px;
+	line-height:30px;
+	width:206px;
+	font-size:14px;
+	margin:0 auto;
+	color:#616161;
+	overflow:hidden;
 }
 #choice .choice-xRs{
 	float:right;
@@ -256,16 +212,24 @@
 	margin-top:15px;
 	float:left;
 }
-#choice .circle-conxx a,.circle-conxc a,.circle-conxl a{
+#choice .circle-conxx a{
+	width:206px;
+	line-height:12px;
+	color:#b84040;
+	text-decoration:underline;
+}
+#choice .circle-conxc a,.circle-conxl a{
 	width:206px;
 	padding-left:10px;
 	line-height:12px;
 	color:#b84040;
+	text-decoration:underline;
 }
 #choice .choice-xRx{
 	width:260px;
+	height:218px;
 	margin-top:15px;
-	float:right;height:218px;
+	float:right;
 }
 #choice .circle-con-all{
 	width:674px;
