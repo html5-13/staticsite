@@ -6,17 +6,17 @@ html代码：
 			<div class="titleBar-r clearfix">
 				<h2><strong>就业学员</strong></h2> 
 				<span class="titleBar-icon"></span> 
-				<a href="../job/j_eml.html" class="titleBar-more"></a>
+				<a href="../job/j_aa.html" class="titleBar-more"></a>
 			</div>
 		</div>
 	</div>
 	<div class='circle-con'>
 		<div class='pic clearfix'>
-			<a href='../job/j_ema.html' class='big'><img src='../images/te_liclassmate1.jpg' alt="就业学员"/></a>
-			<a href='../job/j_ema.html'><img src='../images/te_liclassmate2.jpg' alt="就业学员" /></a>
-			<a href='../job/j_ema.html'><img src='../images/te_liclassmate2.jpg'  alt="就业学员" /></a>
-			<a href='../job/j_ema.html' class='footer'><img src='../images/te_liclassmate2.jpg' alt="就业学员" /></a>
-			<a href='../job/j_ema.html' class='footer'><img src='../images/te_liclassmate2.jpg' alt="就业学员" /></a>
+			<a href='../job/j_aa.html' class='big'><img src='../images/te_liclassmate1.jpg' alt="就业学员"/></a>
+			<a href='../job/j_aa.html'><img src='../images/te_liclassmate2.jpg' alt="就业学员" /></a>
+			<a href='../job/j_aa.html'><img src='../images/te_liclassmate2.jpg'  alt="就业学员" /></a>
+			<a href='../job/j_aa.html' class='footer'><img src='../images/te_liclassmate2.jpg' alt="就业学员" /></a>
+			<a href='../job/j_aa.html' class='footer'><img src='../images/te_liclassmate2.jpg' alt="就业学员" /></a>
 		</div>
 		<div class="pnPage clearfix">
 			<span class="pnPageDown"></span>
