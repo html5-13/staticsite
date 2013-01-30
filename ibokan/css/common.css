@@ -192,6 +192,7 @@
 }
 .page-bot-link table td a{
 	color:#bcd0df;
+	text-decoration:none;
 }
 .page-bot-apply{
 	width:280px;
@@ -244,6 +245,7 @@
 	text-align:center;
 	line-height:29px;
 	margin-left:13px;
+
 }
 .page-bot-apply-a a:hover{
 	background:url(../images/page-bottom/bottom-red-btn.gif) 0 0 no-repeat;
@@ -284,6 +286,7 @@
 .page-bot-inter a{
 	color:#3e566a;
 	margin-left:8px;
+	text-decoration:none;
 }
 .page-bot-inter span{
 	margin-left:8px;
