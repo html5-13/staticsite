@@ -35,9 +35,6 @@
 	width:702px;
 	margin-top:6px;
 }
-#r_tl .circle-con{
-	height:854px;
-}
 #r_tl .midCon{
 	float:right;
 	width:260px;
@@ -55,7 +52,7 @@
 	padding-top:15px;
 	overflow:hidden;
 	font-size:14px;
-	height:148px;
+	height:135px;
 	width:700px;
 	background:url("../images/c_dl-bot-bg.gif") 0 bottom repeat-x;
 }
