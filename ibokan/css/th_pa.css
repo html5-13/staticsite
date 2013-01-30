@@ -92,7 +92,7 @@
 #th_pa .programme span{
 	position:absolute;
 	left:0px;
-	top:272px;
+	top:271px;
 	background:url("../images/th_ca-left.gif") 0 0 no-repeat;
 	height:38px;
 	width:27px;
@@ -101,7 +101,7 @@
 #th_pa .programme span.right{
 	position:absolute;
 	left:810px;
-	top:272px;
+	top:271px;
 	background:url("../images/th_ca-right.gif") 0 0 no-repeat;
 	height:38px;
 	width:27px;
