@@ -1,6 +1,7 @@
 #teacher .tea-rec .circle{
-	width:702px;
+	width:703px;
 	float:left;	
+	display:inline;
 }
 #teacher .ws-rc .circle-con .pic{ height:124px; } 
 #teacher .circle-tm,#teacher .circle-con,#teacher .circle-bm{
@@ -8,6 +9,10 @@
 }
 #teacher .tea-rec .circle-con dt{
 	float:left;	
+}
+#teacher .tea-rec .circle-con dt a{
+	color:#797979;
+	text-decoration:none;
 }
 
 #teacher .tea-rec .circle-con dl{
@@ -124,6 +129,8 @@
 	margin-left:15px;
 	margin-top:17px;
 	display:inline;
+	overflow:hidden;
+	zoom:1;
 	
 }
 #teacher .tea-cou .circle-con .teach-cou-img .teach-cou-img-img{
@@ -251,4 +258,28 @@
 	float:left;
 	margin-top:20px;
 	margin-left:16px;
+}
+
+/*genggai*/
+.teacher-cou-img-img{
+	float:left;
+	width:230px;
+	height:153px;
+}
+.teach-cou-36{
+	float:left;
+	width:219px;
+	height:26px;
+	display:inline;
+	
+}
+.teach-cou-photo{
+	float:left;
+	width:230px;
+	height:142px;
+	display:inline;
+}
+#teacher .teach-cou-right .teach-cou-right-p a{
+	color:#838383;
+	text-decoration:none;
 }
